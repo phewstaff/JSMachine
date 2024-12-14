@@ -1,0 +1,15 @@
+{
+    "name": "jsmachine",
+    "module": "index.ts",
+    "type": "module",
+    "devDependencies": {
+        "@types/bun": "latest",
+        "@types/jest": "^29.5.13"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "scripts": {
+        "test": "bun test"
+    }
+}
