@@ -1,5 +1,6 @@
 # jsmachine
 
+## A personal repository primarily dedicated to learning and practicing algorithms and data structures.
 To install dependencies:
 
 ```bash
