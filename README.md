@@ -1,6 +1,6 @@
 # jsmachine
 
-## A personal repository dedicated to learning and practicing algorithms and data structures through problem-solving.
+## A personal repository primarily dedicated to learning and practicing algorithms and data structures.
 
 To install dependencies:
 
